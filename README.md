@@ -3,3 +3,5 @@ Using the EU DOES data set as the training set, as it is freely available and co
 Link for the data here: https://zenodo.org/records/8219163
 
 With the current structure on the test set, I am only achieving an accuracy of 67%, while the train accuracy is 98% and flatlined, so it's likely overfitting. I will try to combat that.
+
+Structure has been updated to include more color bands and now has a 74% accuracy a 7% improvement. Will consider more options.
